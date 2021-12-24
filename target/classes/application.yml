@@ -1,0 +1,7 @@
+qiniu:
+  accessKey: PNPjkgDwOL-ZFg2rQnQmyXnxXQUw90tU3BpMelgt
+  secretKey: 0RhmcD1BJ03ckPvybBslzo0JtxloQyr4ySfcwl63
+  # 对象储存
+  bucket: develpoment # 空间名称
+  zone: huanam # 存储区域
+  domain: r4iq8yon8.hn-bkt.clouddn.com # 访问域名
